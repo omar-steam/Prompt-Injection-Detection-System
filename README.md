@@ -16,7 +16,7 @@ This tool analyzes text prompts and determines if they contain:
 ### Step 1: Prerequisites
 
 - Python 3.8+ installed ([Download here](https://www.python.org/downloads/))
-- Basic command line knowledge (don’t worry, we’ll guide you!)
+- Basic command line knowledge (don’t worry, I'll guide you!)
 - Free [Groq](https://console.groq.com) account
 
 ---
